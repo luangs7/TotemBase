@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="mikeBlue">#003579</color>
+    <color name="sapphire">#303F9F</color>
+    <color name="mariner">#1d73e1</color>
+    <color name="solitude">#E7F1FE</color>
+    <color name="linkWater">#DBE7F8</color>
+    <color name="myblack">#000000</color>
+    <color name="colorPrimary">@color/mikeBlue</color>
+    <color name="colorPrimaryDark">@color/mikeBlue</color>
+    <color name="colorAccent">@color/mikeBlue</color>
 </resources>

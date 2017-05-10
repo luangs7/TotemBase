@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">TotenBase</string>
+    <string name="app_name">Reymaster</string>
+
+    <!--// Questions-->
+    <string name="question1">Você sabe que a Reymaster comercializa Painéis Elétricos Montados através da Engerey?</string>
+    <string name="question2">Você já adquiriu nossos painéis montados?</string>
+    <string name="question3">Você compraria novamente</string>
+    <string name="question4">Você sabe que a Reymaster comercializa cabeamento estruturado?</string>
+    <string name="question5">Recebeu oferta para adquirir cabeamento estruturado através de:</string>
+    <string name="question6">Você já adquiriu esta linha de produto?</string>
+    <string name="question7">Como avalia a qualidade destes produtos?</string>
+    <string name="question8">Em relação ao vendedor interno que lhe atende</string>
+    <string name="question9">De modo Geral. Está satisfeito com o nosso atendimento?</string>
+    <string name="question10">Recebeu oferta para adquirir paineis da Engerey através de:</string>
+    <string name="question11">Poderia descrever qual o motivo?</string>
+
+    <!--Answers-->
+    <string name="answer1">Sim, já sabia.</string>
+    <string name="answer2">Não, ainda não.</string>
+    <string name="answer3">Sim!</string>
+    <string name="answer4">Ainda não.</string>
+    <string name="answer5">Claro que sim!</string>
+    <string name="answer6">Infelizmente, não.</string>
+    <string name="answer7">Excelente!</string>
+    <string name="answer8">Normal.</string>
+    <string name="answer9">Muito Ruim.</string>
+    <string name="answer10">Estou satisfeito!</string>
+    <string name="answer11">Poderia melhorar!</string>
+    <string name="answer12">Nenhum vendedor me atende!</string>
+
 </resources>
